@@ -2,7 +2,9 @@ Data Analyst Portfolio ✨
 
 Welcome! I’m Whitney Parks, an aspiring Data Analyst based in Kentucky, currently completing the Data Analyst with Python & SQL pathway through Code: You Kentucky.
 
-I’m passionate about transforming raw data into clear, actionable insights and building projects that tell meaningful, data‑driven stories. This portfolio highlights my journey, my skills, and the work I’m most proud of.
+I’m passionate about transforming raw data into clear, actionable insights and building projects that tell meaningful, data‑driven stories. This portfolio highlights my journey, my skills, and the work I’m most proud of!
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/whitneyparks/)
 
 <!---
 Wyparks04/Wyparks04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
